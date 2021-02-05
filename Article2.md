@@ -1,6 +1,6 @@
 # CSS Pseudo Overlay
 
-<pre>
+<pre>{`
 .hero.overlay--full::before{
     background: rgba(0, 0, 0, 0.25);
     content: '';
@@ -12,7 +12,7 @@
     width: 100%;
     z-index: 2;
 }
-</pre>
+ `}</pre>
 
 <style>
 pre{

@@ -1,6 +1,6 @@
 # Gatsby Examples
 
-<pre>
+<pre>{`
 <!-- /**
  * Layout component that queries for data
  * with Gatsby's useStaticQuery component
@@ -56,9 +56,9 @@ Layout.propTypes = {
 }
 
 export default Layout
-</pre>
+ `}</pre>
 
-<pre>
+<pre>{`
 <!-- import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
@@ -94,10 +94,10 @@ const Image = () => {
   return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
 }
 
-export default Image --> -->
-</pre>
+export default Image --> 
+ `}</pre>
 
-<!-- <pre>
+<pre>{`
 /**
  * SEO component that queries for data with
  *  Gatsby's useStaticQuery React hook
@@ -188,9 +188,9 @@ SEO.propTypes = {
 
 export default SEO -->
 
-</pre>
+ `}</pre>
 
-<!-- <pre>
+<pre>{`
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
@@ -233,7 +233,7 @@ Header.defaultProps = {
 }
 
 export default Header -->
-</pre>
+ `}</pre>
 
 <style>
 pre{
