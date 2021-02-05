@@ -12,12 +12,11 @@
   </div>
 </template>
 
-# Below is a custom div
+# Welcome to JamStack
 
 <div class="homepage--block">
-  <h2>Code examples coming soon</h2>
-  <button>Learn More</button>
-</div>
+  <pre>Code examples will live here in articles</pre>
+  </div>
 
 <style>
 .homepage--block{
