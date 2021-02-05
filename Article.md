@@ -1,3 +1,18 @@
-# My first Article
+# Linking Figma with Storybook
 
-VuePress is an amazing static site generator!
+<pre>
+export const myStory = () => <Button>Hello, World!</Button>myStory.story = {
+parameters: {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/.....'
+  }
+}
+}
+</pre>
+
+<style>
+pre{
+  color:#fff;
+}
+</style>
