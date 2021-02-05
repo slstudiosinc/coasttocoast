@@ -20,7 +20,10 @@
 
 <style>
 .homepage--block{
-  background-color:#9c9c9c;
+  background-color:transparent;
   padding:50px;
+}
+pre{
+  color:#fff;
 }
 </style>
