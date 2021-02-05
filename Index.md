@@ -8,7 +8,7 @@
 
 <template>
   <div id="Steveify">
-    <img src="assets/steveify.png" alt="Steveify" width="200"/>
+    <img src="assets/jamstack.png" alt="Steveify" />
   </div>
 </template>
 
