@@ -4,7 +4,7 @@ module.exports = {
       logo: '/assets/img/logo.png',
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Blog', link: '/blog/' },
+        { text: 'Blog', link: '/Blog/' },
         { text: 'Shopify', link: 'https://vuepress.vuejs.org/' }
       ],
     //   navbar: false,
