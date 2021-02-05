@@ -1,6 +1,6 @@
 {
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
-  "src:build": "vuepress build src"
+  "src:dev": "vuepress dev"
   }
 }
