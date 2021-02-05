@@ -1,7 +1,7 @@
 # Newsletter Section Shopify
 
 <pre>
-{%- comment -%}
+<!-- {%- comment -%}
   This is a required section for the Shopify Theme Store.
   It is available when you add "Newsletter" section on the Theme Editor.
 
@@ -63,7 +63,7 @@
       "category": "Promotional"
     }]
   }
-{% endschema %}
+{% endschema %} -->
 
 </pre>
 
