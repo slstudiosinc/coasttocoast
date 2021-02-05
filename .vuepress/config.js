@@ -1,7 +1,7 @@
 // .vuepress/config.js
 module.exports = {
     themeConfig: {
-      logo: '/assets/img/logo.png',
+      logo: '/assets/steveify.png',
       nav: [
         { text: 'Home', link: '/' },
         { text: 'Blog', link: '/Blog/' },
