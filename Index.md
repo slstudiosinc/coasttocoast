@@ -4,7 +4,7 @@
 
 [CSS Pseudo Overlay](Article2.md)
 
-[Article 3](Article3.md)
+[Gatsby Component Examples](Article3.md)
 
 <template>
   <div id="Steveify">
