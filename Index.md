@@ -19,6 +19,9 @@
   </div>
 
 <style>
+body{
+  text-align:center;
+}
 .homepage--block{
   background-color:transparent;
   padding:50px;
