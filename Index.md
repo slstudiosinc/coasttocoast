@@ -1,10 +1,10 @@
 # Steveify
 
-[Linking Figma with Storybook](Article.md)
+# Welcome to JamStack
 
-[CSS Pseudo Overlay](Article2.md)
-
-[Gatsby Component Examples](Article3.md)
+<div class="homepage--block">
+  <pre>Code examples will live here in articles</pre>
+  </div>
 
 <template>
   <div id="Steveify">
@@ -12,11 +12,11 @@
   </div>
 </template>
 
-# Welcome to JamStack
+[Linking Figma with Storybook](Article.md)
 
-<div class="homepage--block">
-  <pre>Code examples will live here in articles</pre>
-  </div>
+[CSS Pseudo Overlay](Article2.md)
+
+[Gatsby Component Examples](Article3.md)
 
 <style>
 body{
