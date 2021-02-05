@@ -14,6 +14,12 @@
 
 # Below is a JSX block
 
-<div className="homepage--block">
+<div class="homepage--block">
   <h2>Code examples coming soon</h2>
 </div>
+
+<style>
+.homepage--block{
+  background-color:#ccc;
+}
+</style>
