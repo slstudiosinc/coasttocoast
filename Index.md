@@ -8,6 +8,6 @@
 
 <template>
   <div id="Steveify">
-    <img src="~@assets/steveify.png" />
+    <img src="assets/steveify.png" />
   </div>
 </template>
