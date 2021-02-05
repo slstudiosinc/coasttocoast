@@ -1,24 +1,6 @@
 {
-    "name": "stevify-vue",
-    "version": "1.0.0",
-    "description": "Steveify: The Shopify Expert",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "src:build": "vuepress build src"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/slstudiosinc/coasttocoast.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/slstudiosinc/coasttocoast/issues"
-    },
-    "homepage": "https://github.com/slstudiosinc/coasttocoast/#readme",
-    "dependencies": {
-      "vuepress": "^0.12.0"
-    }
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "docs:build": "vuepress build"
   }
+}
