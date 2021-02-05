@@ -1,7 +1,3 @@
-# Steveify
-
-# Welcome to JamStack
-
 <template>
   <div id="Steveify">
     <img src="assets/jamstack.png" alt="Steveify" />
@@ -9,7 +5,7 @@
 </template>
 
 <div class="homepage--block">
-  <pre>Code examples will live here in articles</pre>
+  <pre>Code examples will live here in articles below</pre>
 </div>
 
 [Linking Figma with Storybook](Article.md)
