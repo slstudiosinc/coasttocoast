@@ -12,10 +12,11 @@
   </div>
 </template>
 
-# Below is a JSX block
+# Below is a custom div
 
 <div class="homepage--block">
   <h2>Code examples coming soon</h2>
+  <button>Learn More</button>
 </div>
 
 <style>
