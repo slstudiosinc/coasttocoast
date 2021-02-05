@@ -21,6 +21,7 @@
 
 <style>
 .homepage--block{
-  background-color:#ccc;
+  background-color:#9c9c9c;
+  padding:50px;
 }
 </style>
