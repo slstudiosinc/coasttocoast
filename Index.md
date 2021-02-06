@@ -8,17 +8,17 @@
   <pre>Code examples will live here in articles below</pre>
 </div>
 
-[Linking Figma with Storybook](Article.md)
+[Storybook Examples](Article.md)
 
-[CSS Pseudo Overlay](Article2.md)
+[Shopify Examples](Article2.md)
 
-[Gatsby Component Examples](Article3.md)
+[Gatsby Examples](Article3.md)
 
-[Storybook Examples](Article4.md)
+[React Examples](Article3.md)
 
-[React Component Examples](Article5.md)
+[CSS Examples](Article5.md)
 
-[Next.js Examples](Article6.md)
+[Additional Examples](Article6.md)
 
 <style>
 body{

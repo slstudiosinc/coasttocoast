@@ -1,4 +1,8 @@
-# More Examples
+# Example
+
+<pre>{`
+
+ `}</pre>
 
 <style>
 pre{
