@@ -8,7 +8,7 @@
   <pre>Code examples will live here in articles below</pre>
 </div>
 
-[Storybook Examples](Article.md)
+[Storybook Examples](Article1.md)
 
 [Shopify Examples](Article2.md)
 
