@@ -8,17 +8,17 @@
   <pre>Code examples will live here in articles below</pre>
 </div>
 
-[Storybook Examples](Article1.md)
+[Storybook Examples](article1.md)
 
-[Shopify Examples](Article2.md)
+[Shopify Examples](article2.md)
 
-[Gatsby Examples](Article3.md)
+[Gatsby Examples](article3.md)
 
-[React Examples](Article3.md)
+[React Examples](article3.md)
 
-[CSS Examples](Article5.md)
+[CSS Examples](article5.md)
 
-[Additional Examples](Article6.md)
+[Additional Examples](blog.md)
 
 <style>
 body{
